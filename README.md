@@ -6,3 +6,5 @@
 1. Create Build hooks in Netlify's `Build & deploy` menu.
 1. Register the published WebHook URL on Shifter's Site.
 1. Run Generator
+
+## Shifter Notes
